@@ -62,3 +62,9 @@ results/
 # Temporary files
 tmp/
 temp/
+
+# Auth and upload scripts (local only)
+auth.bat
+auth_token.bat
+UPLOAD_GUIDE.md
+upload.bat
